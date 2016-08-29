@@ -1,0 +1,16 @@
+{
+  "name": "purescript-case-insensitive",
+  "license": "BSD-3-Clause",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rightfold/purescript-case-insensitive.git"
+  }
+}
